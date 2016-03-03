@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Last week I attended a performance: gentle afternoon rain.'
-datePublished: '2016-03-03T00:03:04.805Z'
-dateModified: '2016-03-03T00:02:33.170Z'
+description: ''
+datePublished: '2016-03-03T00:12:18.971Z'
+dateModified: '2016-03-03T00:12:08.517Z'
 title: Gentle afternoon rain
 author: []
 sourcePath: _posts/2016-03-02-stillness-and-reverence.md
