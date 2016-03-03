@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Last week I attended a performance: gentle afternoon rain.'
-datePublished: '2016-03-02T06:04:41.252Z'
-dateModified: '2016-03-02T06:04:37.254Z'
-title: 'Stillness & Reverence'
+datePublished: '2016-03-03T00:03:04.805Z'
+dateModified: '2016-03-03T00:02:33.170Z'
+title: Gentle afternoon rain
 author: []
+sourcePath: _posts/2016-03-02-stillness-and-reverence.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-02-stillness-and-reverence.md
-published: true
 url: stillness-and-reverence/index.html
 _type: Article
 
 ---
-# Stillness & Reverence
+# Gentle afternoon rain
 
 Last week I attended
 a performance: gentle afternoon rain.
