@@ -1,7 +1,7 @@
 name: this genuine life
 favicon: null
-layout_spectrum: 0.75181
-typography_spectrum: 0.84025
+layout_spectrum: 0.99729
+typography_spectrum: 0.9991
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#0c1a3f'
     - '#cc849f'
     - '#d5cdfe'
-  brandStrength: 0.5
+  brandStrength: 0.8125
   lightness: 0.8125
   saturation: 0.3125
   rhythmicContrast: 0
