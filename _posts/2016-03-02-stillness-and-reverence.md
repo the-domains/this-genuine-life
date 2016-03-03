@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T00:12:18.971Z'
-dateModified: '2016-03-03T00:12:08.517Z'
+datePublished: '2016-03-03T00:17:33.373Z'
+dateModified: '2016-03-03T00:17:16.589Z'
 title: Gentle afternoon rain
 author: []
 sourcePath: _posts/2016-03-02-stillness-and-reverence.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 # Gentle afternoon rain
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e190125b-7864-4e12-9b6e-f198ee720286.jpg)
 
 Last week I attended
 a performance: gentle afternoon rain.
